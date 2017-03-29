@@ -10,7 +10,7 @@
 
 namespace L3_SquaresAndCubes
 {
-    class Program
+    class SquaresAndCubes
     {
         public static void Main(string[] args)
         {
