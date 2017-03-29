@@ -1,0 +1,6 @@
+c:\users\derek\documents\visual studio 2015\Projects\L3_SquaresAndCubes\L3_SquaresAndCubes\bin\Debug\L3_SquaresAndCubes.exe.config
+c:\users\derek\documents\visual studio 2015\Projects\L3_SquaresAndCubes\L3_SquaresAndCubes\obj\Debug\L3_SquaresAndCubes.csprojResolveAssemblyReference.cache
+c:\users\derek\documents\visual studio 2015\Projects\L3_SquaresAndCubes\L3_SquaresAndCubes\bin\Debug\L3_SquaresAndCubes.exe
+c:\users\derek\documents\visual studio 2015\Projects\L3_SquaresAndCubes\L3_SquaresAndCubes\bin\Debug\L3_SquaresAndCubes.pdb
+c:\users\derek\documents\visual studio 2015\Projects\L3_SquaresAndCubes\L3_SquaresAndCubes\obj\Debug\L3_SquaresAndCubes.exe
+c:\users\derek\documents\visual studio 2015\Projects\L3_SquaresAndCubes\L3_SquaresAndCubes\obj\Debug\L3_SquaresAndCubes.pdb
